@@ -23,4 +23,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: vishalpawardocker/assignment6:latest
+          tags: saishpatil18/assignment6:latest
